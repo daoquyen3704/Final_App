@@ -1,0 +1,50 @@
+[
+    {
+      "id" : "1",
+      "name" : "Sơn Tùng",
+      "rating" : 4.0,
+      "date": "13 Sep, 2020",
+      "comment" : "Chất vải rất mịn và mát, mặc lên người cực kỳ thoải mái.",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Son_Tung_M-TP_1_%282017%29.png/500px-Son_Tung_M-TP_1_%282017%29.png"
+    },
+    {
+      "id" : "2",
+      "name" : "Jiyong",
+      "rating" : 5.0,
+      "date": "2 Oct, 2022",
+      "comment" : "Áo rất đẹp, đường may chắc chắn, form chuẩn.",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/G-Dragon_in_February_2025.png/500px-G-Dragon_in_February_2025.png"
+    },
+    {
+      "id" : "3",
+      "name" : "Bich Phương",
+      "rating" : 4.5,
+      "date": "5 June, 2020",
+      "comment" : "Màu sắc lên chuẩn như hình, mặc đi chơi hay đi làm đều ổn. Giao hàng siêu nhanh!",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BICH_PHUONG_-_VIETTEL%2B%2B.jpg/375px-BICH_PHUONG_-_VIETTEL%2B%2B.jpg"
+    },
+    {
+      "id" : "4",
+      "name" : "Soobin Hoàng Sơn",
+      "rating" : 5.0,
+      "date": "2 Mar, 2024",
+      "comment" : "Đã mua lần 2 rồi, vẫn hài lòng như lần đầu. Rất đáng tiền!",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SOOBIN_HO%C3%80NG_S%C6%A0N_2.png/500px-SOOBIN_HO%C3%80NG_S%C6%A0N_2.png"
+    },
+    {
+      "id" : "5",
+      "name" : "J97",
+      "rating" : 3.0,
+      "date": "1 Jan, 2019",
+      "comment" : "Form không đúng size, đặt M mà như size XL. Không hài lòng!",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/3/3a/JackBMT_%28cropped%29.png"
+    },
+    {
+      "id" : "6",
+      "name" : "Hà Anh Tuấn",
+      "rating" : 4.5,
+      "date": "13 Sep, 2020",
+      "comment" : "Mặc thử là ưng ngay, chất lượng vượt mong đợi. 10/10 luôn!",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ha_Anh_Tuan_Smile.jpg/500px-Ha_Anh_Tuan_Smile.jpg"
+    }
+]
